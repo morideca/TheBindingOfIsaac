@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21c4a577f8fa4b5dafb8ec4b97ec8b84, type: 3}
+  m_Name: SmallRoomVariants
+  m_EditorClassIdentifier: 
+  ObstaclesGO:
+  - {fileID: 3360915377796684569, guid: f289a182fb1a55d469fcf202f462448c, type: 3}
+  - {fileID: 452723257132740212, guid: 163beba91eabee345904a60b45d96da5, type: 3}
+  - {fileID: 2828064825556934061, guid: 231de63086d7e734fb1c6ff6803d7d0e, type: 3}
